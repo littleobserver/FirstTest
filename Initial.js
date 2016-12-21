@@ -1,6 +1,4 @@
-<head>
-<body>
-
-<script>alert('Little Observer starts to code')</script>
-</body>
-</head>
+function showText ()
+{
+	document.write('Little Observer starts to code');
+}
