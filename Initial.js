@@ -16,9 +16,9 @@ function Swap (txt)
 {
 	for (i=0; i <= txt.length; i++)
 	{
-		if (txt[i] = "a")
+		if (txt[i] = ",")
 		{
-			var res = txt.replace("a","b");
+			var res = txt.replace(",",".");
 			txt = res;
 
 		}
